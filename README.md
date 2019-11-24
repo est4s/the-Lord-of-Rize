@@ -9,8 +9,10 @@ The consept is coming from my friends passion to his city. His city Rize, is fam
 
 The character that I draw is my friend's caricaturised version. 
 
+![çay1](https://user-images.githubusercontent.com/53571773/69493263-d5651200-0ebd-11ea-9d23-c83ce12d02ab.png)
+![çay2](https://user-images.githubusercontent.com/53571773/69493265-d8600280-0ebd-11ea-88fe-19c289c08da4.png)
+![çay3](https://user-images.githubusercontent.com/53571773/69493266-dac25c80-0ebd-11ea-8f28-d2b73f17cde3.png)
 ![spoon](https://user-images.githubusercontent.com/53571773/69493250-96cf5780-0ebd-11ea-9b0c-c2f8b5d4614c.png)
-
 
 The targets are tea and the bullets are tea spoons. 
 
