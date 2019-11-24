@@ -21,3 +21,5 @@ The targets are tea and the bullets are tea spoons.
 For background, I tried to draw a similar thing to Rize's villages and highlands, but I was not that succesful about that. I also used sound's from Rize. 
 
 I think this project is achieved its purpose with giving me some idea about game-making. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fxv3N_6fvbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
