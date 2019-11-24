@@ -7,10 +7,14 @@ The consept is coming from my friends passion to his city. His city Rize, is fam
 
 ![yavuz](https://user-images.githubusercontent.com/53571773/69493168-91bdd880-0ebc-11ea-94bf-0b61d643ae97.jpg)
 
-The character that I draw is my friend's caricaturised version. The targets are tea and the bullets are tea spoons. 
+The character that I draw is my friend's caricaturised version. 
+
+![spoon](https://user-images.githubusercontent.com/53571773/69493250-96cf5780-0ebd-11ea-9b0c-c2f8b5d4614c.png)
+
+
+The targets are tea and the bullets are tea spoons. 
 
 ![bg](https://user-images.githubusercontent.com/53571773/69493230-5d96e780-0ebd-11ea-9106-d75e5ef69670.png)
-
 
 For background, I tried to draw a similar thing to Rize's villages and highlands, but I was not that succesful about that. I also used sound's from Rize. 
 
