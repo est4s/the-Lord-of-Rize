@@ -21,15 +21,19 @@ The targets are tea and the bullets are tea spoons.
 For background, I tried to draw a similar thing to Rize's villages and highlands, but I was not that succesful about that. I also used sound's from Rize. 
 
 Code of character:
+
 ![char codes](https://user-images.githubusercontent.com/53571773/69855316-547e8f80-129c-11ea-996c-904c44acb48f.jpg)
 
 Code of bullet:
+
 ![bullet codes](https://user-images.githubusercontent.com/53571773/69855351-619b7e80-129c-11ea-909d-e65f2bcb2fbc.jpg)
 
 Code of targets:
+
 ![target codes](https://user-images.githubusercontent.com/53571773/69855365-68c28c80-129c-11ea-8bca-3ea37fe45af2.jpg)
 
-Code of scoreboard
+Code of scoreboard:
+
 ![score](https://user-images.githubusercontent.com/53571773/69855411-8132a700-129c-11ea-9cf9-4b83e029c08b.jpg)
 
 I think this project is achieved its purpose with giving me some idea about game-making. 
